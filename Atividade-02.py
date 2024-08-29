@@ -1,3 +1,8 @@
+#Aluno: Diogo Zenatti Gomes
+#Aluno: Nicolas Froes
+
+#Atividade 02
+
 import pygame
 import random
 
